@@ -1,5 +1,14 @@
 # Easy Effects Preset for Xiaomi Pad 6 (Pipa)
-<img src="https://github.com/FaridZelli/EasyEffects-Pipa/blob/main/media/xiaomi-pad-6-speakers.png" alt="" width="33%" align="right">
+
+<picture>
+  <source media="(max-width: 768px)" srcset="media/xiaomi-pad-6-speakers.png">
+  <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="" width="100%" align="center">
+</picture>
+
+<picture>
+  <source media="(min-width: 769px)" srcset="media/xiaomi-pad-6-speakers.png">
+  <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="" width="33%" align="right">
+</picture>
 
 This is a parametric EQ preset for the Xiaomi Pad 6 running Linux. While much effort has gone into creating this profile, it does not feature a compressor or maximizer due to unresolveable crackling artifacts.
 
