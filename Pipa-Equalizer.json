@@ -1,0 +1,173 @@
+{
+    "output": {
+        "blocklist": [],
+        "equalizer#0": {
+            "balance": 0.0,
+            "bypass": false,
+            "decramp": "Off",
+            "input-gain": 0.0,
+            "left": {
+                "band0": {
+                    "frequency": 2100.0,
+                    "gain": -16.0,
+                    "mode": "RLC (BT)",
+                    "mute": false,
+                    "q": 1.0,
+                    "slope": "x4",
+                    "solo": false,
+                    "type": "Ladder-pass",
+                    "width": 4.0
+                },
+                "band1": {
+                    "frequency": 400.0,
+                    "gain": -8.0,
+                    "mode": "RLC (BT)",
+                    "mute": false,
+                    "q": 2.0,
+                    "slope": "x1",
+                    "solo": false,
+                    "type": "Bell",
+                    "width": 4.0
+                },
+                "band2": {
+                    "frequency": 9300.0,
+                    "gain": -8.0,
+                    "mode": "RLC (BT)",
+                    "mute": false,
+                    "q": 3.0,
+                    "slope": "x1",
+                    "solo": false,
+                    "type": "Bell",
+                    "width": 4.0
+                },
+                "band3": {
+                    "frequency": 7800.0,
+                    "gain": 2.0,
+                    "mode": "RLC (BT)",
+                    "mute": false,
+                    "q": 0.4,
+                    "slope": "x1",
+                    "solo": false,
+                    "type": "Hi-shelf",
+                    "width": 4.0
+                },
+                "band4": {
+                    "frequency": 120.0,
+                    "gain": 0.0,
+                    "mode": "RLC (BT)",
+                    "mute": false,
+                    "q": 0.67,
+                    "slope": "x1",
+                    "solo": false,
+                    "type": "Hi-pass",
+                    "width": 4.0
+                }
+            },
+            "mode": "IIR",
+            "num-bands": 5,
+            "output-gain": -9.0,
+            "pitch-left": 0.0,
+            "pitch-right": 0.0,
+            "right": {
+                "band0": {
+                    "frequency": 2100.0,
+                    "gain": -16.0,
+                    "mode": "RLC (BT)",
+                    "mute": false,
+                    "q": 1.0,
+                    "slope": "x4",
+                    "solo": false,
+                    "type": "Ladder-pass",
+                    "width": 4.0
+                },
+                "band1": {
+                    "frequency": 400.0,
+                    "gain": -8.0,
+                    "mode": "RLC (BT)",
+                    "mute": false,
+                    "q": 2.0,
+                    "slope": "x1",
+                    "solo": false,
+                    "type": "Bell",
+                    "width": 4.0
+                },
+                "band2": {
+                    "frequency": 9300.0,
+                    "gain": -8.0,
+                    "mode": "RLC (BT)",
+                    "mute": false,
+                    "q": 3.0,
+                    "slope": "x1",
+                    "solo": false,
+                    "type": "Bell",
+                    "width": 4.0
+                },
+                "band3": {
+                    "frequency": 7800.0,
+                    "gain": 2.0,
+                    "mode": "RLC (BT)",
+                    "mute": false,
+                    "q": 0.4,
+                    "slope": "x1",
+                    "solo": false,
+                    "type": "Hi-shelf",
+                    "width": 4.0
+                },
+                "band4": {
+                    "frequency": 120.0,
+                    "gain": 0.0,
+                    "mode": "RLC (BT)",
+                    "mute": false,
+                    "q": 0.67,
+                    "slope": "x1",
+                    "solo": false,
+                    "type": "Hi-pass",
+                    "width": 4.0
+                }
+            },
+            "split-channels": false
+        },
+        "midside_equalizer#0": {
+            "balance": 0.0,
+            "bypass": false,
+            "decramp": "Off",
+            "input-gain": 0.0,
+            "mid": {
+                "band0": {
+                    "frequency": 3000.0,
+                    "gain": 2.0,
+                    "mode": "RLC (BT)",
+                    "mute": false,
+                    "q": 0.6,
+                    "slope": "x1",
+                    "solo": false,
+                    "type": "Hi-shelf",
+                    "width": 4.0
+                }
+            },
+            "mode": "IIR",
+            "num-bands": 1,
+            "output-gain": 0.0,
+            "pitch-mid": 0.0,
+            "pitch-side": 0.0,
+            "side": {
+                "band0": {
+                    "frequency": 3000.0,
+                    "gain": 2.0,
+                    "mode": "RLC (BT)",
+                    "mute": false,
+                    "q": 0.6,
+                    "slope": "x1",
+                    "solo": false,
+                    "type": "Hi-shelf",
+                    "width": 4.0
+                }
+            },
+            "split-channels": false
+        },
+        "plugins_order": [
+            "equalizer#0",
+            "midside_equalizer#0"
+        ]
+    }
+}
