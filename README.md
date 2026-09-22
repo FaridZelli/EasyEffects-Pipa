@@ -12,7 +12,6 @@
 
 <br>
 <br>
-<br>
 
 This is a parametric EQ preset for the Xiaomi Pad 6 running Linux. While much effort has gone into creating this profile, it does not feature a compressor or maximizer due to unresolveable crackling artifacts.
 
