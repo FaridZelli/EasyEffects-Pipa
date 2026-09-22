@@ -7,7 +7,7 @@
 
 <picture>
   <source media="(min-width: 769px)" srcset="media/xiaomi-pad-6-speakers.png">
-  <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="" width="40%" align="right">
+  <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" alt="" width="50%" align="right">
 </picture>
 
 <br>
