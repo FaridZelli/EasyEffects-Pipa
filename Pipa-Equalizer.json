@@ -52,7 +52,7 @@
                     "width": 4.0
                 },
                 "band4": {
-                    "frequency": 120.0,
+                    "frequency": 100.0,
                     "gain": 0.0,
                     "mode": "RLC (BT)",
                     "mute": false,
@@ -65,7 +65,7 @@
             },
             "mode": "IIR",
             "num-bands": 5,
-            "output-gain": -9.0,
+            "output-gain": 0.0,
             "pitch-left": 0.0,
             "pitch-right": 0.0,
             "right": {
@@ -114,7 +114,7 @@
                     "width": 4.0
                 },
                 "band4": {
-                    "frequency": 120.0,
+                    "frequency": 100.0,
                     "gain": 0.0,
                     "mode": "RLC (BT)",
                     "mute": false,
